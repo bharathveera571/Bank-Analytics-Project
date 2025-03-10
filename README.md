@@ -28,7 +28,7 @@ This project analyzes **loan data** using **Excel, Power BI, SQL, and Tableau** 
 ### 🔹 **Power BI Dashboard**  ![Screenshot 2025-03-10 145441](https://github.com/user-attachments/assets/4d1292d7-0c40-495b-a7da-3fa4d3797feb)
 ### 🔹 **Power BI Dashboard**  ![Screenshot 2025-03-10 145423](https://github.com/user-attachments/assets/ae4ee71b-8491-44f4-bc0a-412ad3871808)
 
-## 🔍 Key Insights (With Values)  
+## 🔍 Key Insights
 📌 **Loan Distribution**  
 - Total loan amount analyzed: **$500M+**  
 - **38% of loans** are for **debt consolidation**  
